@@ -39,5 +39,5 @@ The objective of this project is to practice basic ABAP programming and understa
 ## Learning Outcomes
 Through this project, I aim to improve my understanding of SAP MM purchasing document structures and practice basic ABAP programming.
 
-## Disclaimer
-This is an independent self-learning project. The source code has not yet been executed or tested in an SAP system due to the current lack of SAP system access.
+## Notes
+This is an independent self-learning project that is still a work in progress and may have room for further improvement. The source code has not yet been executed or tested in an SAP system due to limited access to an SAP environment. This project reflects my ongoing learning journey and aims to strengthen my understanding of SAP ABAP fundamentals.
