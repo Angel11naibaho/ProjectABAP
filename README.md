@@ -1,11 +1,9 @@
 # SAP ABAP – Purchase Order Display
 
 ## Project Overview
-
-This is a beginner-level SAP ABAP self-learning project designed to retrieve and display Purchase Order (PO) header information using the standard SAP EKKO table.
+This is a SAP ABAP self-learning beginner project designed to retrieve and display Purchase Order (PO) header information using the standard SAP EKKO table.
 
 ## Project Objective
-
 The objective of this project is to practice basic ABAP programming and understand how to retrieve purchasing document information using Open SQL.
 
 ## SAP Table Used
